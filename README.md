@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/018c6f08-8176-4308-a465-feaaa0bf3ee3.svg)](https://wakatime.com/@018c6f08-8176-4308-a465-feaaa0bf3ee3)
 <!--
 **KvYcc/KvYcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
